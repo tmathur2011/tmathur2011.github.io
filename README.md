@@ -1,4 +1,8 @@
-# Tithi Mathur - MISM-BIDA @ CMU | ML, NLP, DL, GenAI Enthusiast
+# 👋 Hi, I'm Tithi Mathur
+
+## 🎓 MISM-BIDA @ Carnegie Mellon University
+
+### 💡 ML | NLP | DL | GenAI Enthusiast
 
 ## About Me
 
